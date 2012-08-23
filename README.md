@@ -1,6 +1,9 @@
 ReadItLaterPlugin
 ============
 
+#### NOTE: This plugin is a bit pointless as Read It Later has changed to [Pocket](http://getpocket.com) now. 
+
+
 Installation
 ------------
 
